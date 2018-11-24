@@ -2,7 +2,27 @@
 
 📝 `NOTE:` Paste the README templates for each subsequent lab here at the top, (i.e. lab 2, 3, 4). This will show a history of your development process including which users tories you completed and how your app looked and functioned at each step.
 📝 `NOTE` Paste this template at the top of your existing `README.md` file from the last lab.
+## Lab 3
 
+### App Description
+Prototype flashcard app that lets the user create flashcards containing sets of questions and answers and switch between them
+
+
+### App Walk-though
+
+<img src="http://recordit.co/WNdv4PYABh.gif" width=200><br>
+
+`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+
+## Required
+- [x] User can create a card and still see their created card when the app is relaunched.
+- [x] User can create muliple cards and browse through all created cards
+
+## Optional
+- [x] User can delete a card and no longer see it in their deck anymore
+- [ ] Flashcards are shown in random order instead of the order they were created in
+- [ ] User can edit a card and see the edit saved when they browse through their deck of cards
+- [ ] User can create flashcards with multiple answers and be able to browse through cards with multiple choice answers shown
 ## Lab 2
 
 ### App Description
@@ -48,3 +68,4 @@ One can start the app through the app selection window on the device. The app sh
 - [ ] Add selectable multiple choice answers beneath the card
    - [ ] Change the background color of the multiple choice answers when clicked to indicate whether the question waanswered correctly
 - [ ] Further customize and style the card
+
